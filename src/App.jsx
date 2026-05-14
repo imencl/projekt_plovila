@@ -37,7 +37,7 @@ function App() {
       </Routes>
       </Container>
       <hr />
-      &copy; {IME_APLIKACIJE}
+      &copy; {IME_APLIKACIJE} | Ivo Mencl
     </Container>
   )
 }
